@@ -1,0 +1,9 @@
+      git init
+    git status
+  161  git add test.py
+  162  git status
+  163  git commit -m "added testing files"
+  164  git status
+  165  rm test.py
+  166  ls
+  168  git restore test.py
