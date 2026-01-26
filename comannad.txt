@@ -7,3 +7,6 @@
   165  rm test.py
   166  ls
   168  git restore test.py
+CONTRIBUTING.md
+
+
